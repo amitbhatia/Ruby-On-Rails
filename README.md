@@ -1,2 +1,2 @@
 # Ruby-On-Rails
-Ruby on Rails Courserq
+Ruby on Rails Coursera
